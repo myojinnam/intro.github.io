@@ -1,1 +1,3 @@
-# intro.github.io
+# 멋쟁이 사자처럼 in 성신여자대학교
+
+HTML / CSS 1차시 과제 예시입니다.
